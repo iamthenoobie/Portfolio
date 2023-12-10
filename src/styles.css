@@ -39,10 +39,10 @@ a:hover {
 
 #canvas {
   position: absolute;
-  height: 110vh;
+  /*height: 110vh;
   top: -10vh;
   right: 0;
-  left: 0;
+  left: 0;*/
 }
 
 .hero {
